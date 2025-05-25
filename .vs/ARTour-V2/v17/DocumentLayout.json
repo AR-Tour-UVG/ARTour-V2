@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maria\\OneDrive - UVG\\Documentos\\UVG\\Megaproyecto\\ARTour-V2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F92283DD-A665-A579-A089-3FDA8B5655CC}|Assembly-CSharp.csproj|c:\\users\\maria\\onedrive - uvg\\documentos\\uvg\\megaproyecto\\artour-v2\\assets\\ui toolkit\\pantallainicio.uxml||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{F92283DD-A665-A579-A089-3FDA8B5655CC}|Assembly-CSharp.csproj|solutionrelative:assets\\ui toolkit\\pantallainicio.uxml||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PantallaInicio.uxml",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive - UVG\\Documentos\\UVG\\Megaproyecto\\ARTour-V2\\Assets\\UI Toolkit\\PantallaInicio.uxml",
+              "RelativeDocumentMoniker": "Assets\\UI Toolkit\\PantallaInicio.uxml",
+              "ToolTip": "C:\\Users\\maria\\OneDrive - UVG\\Documentos\\UVG\\Megaproyecto\\ARTour-V2\\Assets\\UI Toolkit\\PantallaInicio.uxml",
+              "RelativeToolTip": "Assets\\UI Toolkit\\PantallaInicio.uxml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-05-25T03:01:44.558Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
