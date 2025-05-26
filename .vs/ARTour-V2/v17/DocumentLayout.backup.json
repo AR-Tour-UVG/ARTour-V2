@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\maria\\OneDrive - UVG\\Documentos\\UVG\\Megaproyecto\\ARTour-V2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F92283DD-A665-A579-A089-3FDA8B5655CC}|Assembly-CSharp.csproj|c:\\users\\maria\\onedrive - uvg\\documentos\\uvg\\megaproyecto\\artour-v2\\assets\\scripts\\pantallainicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F92283DD-A665-A579-A089-3FDA8B5655CC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pantallainicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{06566B24-7975-708A-F8AA-0EE82B439274}|Assembly-CSharp-Editor.csproj|c:\\users\\maria\\onedrive - uvg\\documentos\\uvg\\megaproyecto\\artour-v2\\assets\\scripts\\editor\\pantallainicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06566B24-7975-708A-F8AA-0EE82B439274}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\scripts\\editor\\pantallainicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F92283DD-A665-A579-A089-3FDA8B5655CC}|Assembly-CSharp.csproj|c:\\users\\maria\\onedrive - uvg\\documentos\\uvg\\megaproyecto\\artour-v2\\assets\\scripts\\iniciouicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F92283DD-A665-A579-A089-3FDA8B5655CC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\iniciouicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F92283DD-A665-A579-A089-3FDA8B5655CC}|Assembly-CSharp.csproj|c:\\users\\maria\\onedrive - uvg\\documentos\\uvg\\megaproyecto\\artour-v2\\assets\\scripts\\cambiadordepantallas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F92283DD-A665-A579-A089-3FDA8B5655CC}|Assembly-CSharp.csproj|C:\\Users\\maria\\OneDrive - UVG\\Documentos\\UVG\\Megaproyecto\\ARTour-V2\\assets\\scripts\\cambiadordepantallas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F92283DD-A665-A579-A089-3FDA8B5655CC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cambiadordepantallas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F92283DD-A665-A579-A089-3FDA8B5655CC}|Assembly-CSharp.csproj|C:\\Users\\maria\\OneDrive - UVG\\Documentos\\UVG\\Megaproyecto\\ARTour-V2\\assets\\scripts\\iniciouicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F92283DD-A665-A579-A089-3FDA8B5655CC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\iniciouicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F92283DD-A665-A579-A089-3FDA8B5655CC}|Assembly-CSharp.csproj|C:\\Users\\maria\\OneDrive - UVG\\Documentos\\UVG\\Megaproyecto\\ARTour-V2\\Assets\\UI Toolkit\\PantallaEscaneo.uss||{3B902123-F8A7-4915-9F01-361F908088D0}",
@@ -36,31 +36,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "PantallaInicio.cs",
-              "DocumentMoniker": "C:\\Users\\maria\\OneDrive - UVG\\Documentos\\UVG\\Megaproyecto\\ARTour-V2\\Assets\\Scripts\\PantallaInicio.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PantallaInicio.cs",
-              "ToolTip": "C:\\Users\\maria\\OneDrive - UVG\\Documentos\\UVG\\Megaproyecto\\ARTour-V2\\Assets\\Scripts\\PantallaInicio.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PantallaInicio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive - UVG\\Documentos\\UVG\\Megaproyecto\\ARTour-V2\\Assets\\Scripts\\Editor\\PantallaInicio.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Editor\\PantallaInicio.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive - UVG\\Documentos\\UVG\\Megaproyecto\\ARTour-V2\\Assets\\Scripts\\Editor\\PantallaInicio.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Editor\\PantallaInicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T07:14:30.507Z",
+              "WhenOpened": "2025-05-26T07:17:46.363Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "CambiadorDePantallas.cs",
               "DocumentMoniker": "C:\\Users\\maria\\OneDrive - UVG\\Documentos\\UVG\\Megaproyecto\\ARTour-V2\\Assets\\Scripts\\CambiadorDePantallas.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CambiadorDePantallas.cs",
               "ToolTip": "C:\\Users\\maria\\OneDrive - UVG\\Documentos\\UVG\\Megaproyecto\\ARTour-V2\\Assets\\Scripts\\CambiadorDePantallas.cs",
               "RelativeToolTip": "Assets\\Scripts\\CambiadorDePantallas.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBQAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-26T07:05:23.503Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "InicioUIController.cs",
               "DocumentMoniker": "C:\\Users\\maria\\OneDrive - UVG\\Documentos\\UVG\\Megaproyecto\\ARTour-V2\\Assets\\Scripts\\InicioUIController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\InicioUIController.cs",
@@ -68,8 +68,7 @@
               "RelativeToolTip": "Assets\\Scripts\\InicioUIController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T05:58:17.828Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T05:58:17.828Z"
             },
             {
               "$type": "Document",
