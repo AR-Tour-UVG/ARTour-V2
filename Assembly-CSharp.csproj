@@ -62,7 +62,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\InicioUIController.cs" />
-    <Compile Include="Assets\Scripts\PantallaInicio.cs" />
+    <Compile Include="Assets\Scripts\CambiadorDePantallas.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\UI Toolkit\PantallaInicio.uxml" />
