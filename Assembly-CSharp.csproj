@@ -65,6 +65,7 @@
     <Compile Include="Assets\Scripts\InicioUIController.cs" />
     <Compile Include="Assets\Scripts\EscaneoUIController.cs" />
     <Compile Include="Assets\Scripts\CambiadorDePantallas.cs" />
+    <Compile Include="Assets\Scripts\EstadoRuta.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\UI Toolkit\PantallaInicio.uxml" />
