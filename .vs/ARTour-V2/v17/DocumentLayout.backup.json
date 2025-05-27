@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\maria\\OneDrive - UVG\\Documentos\\UVG\\Megaproyecto\\ARTour-V2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maria\\OneDrive - UVG\\Documentos\\UVG\\Megaproyecto\\ARTour-V2\\Assets\\Plugins\\Android\\AndroidManifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Plugins\\Android\\AndroidManifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{06566B24-7975-708A-F8AA-0EE82B439274}|Assembly-CSharp-Editor.csproj|c:\\users\\maria\\onedrive - uvg\\documentos\\uvg\\megaproyecto\\artour-v2\\assets\\scripts\\editor\\pantallainicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06566B24-7975-708A-F8AA-0EE82B439274}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\scripts\\editor\\pantallainicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,6 +39,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive - UVG\\Documentos\\UVG\\Megaproyecto\\ARTour-V2\\Assets\\Plugins\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "Assets\\Plugins\\Android\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\maria\\OneDrive - UVG\\Documentos\\UVG\\Megaproyecto\\ARTour-V2\\Assets\\Plugins\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "Assets\\Plugins\\Android\\AndroidManifest.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-05-26T08:23:42.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "PantallaInicio.cs",
               "DocumentMoniker": "C:\\Users\\maria\\OneDrive - UVG\\Documentos\\UVG\\Megaproyecto\\ARTour-V2\\Assets\\Scripts\\Editor\\PantallaInicio.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Editor\\PantallaInicio.cs",
@@ -47,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CambiadorDePantallas.cs",
               "DocumentMoniker": "C:\\Users\\maria\\OneDrive - UVG\\Documentos\\UVG\\Megaproyecto\\ARTour-V2\\Assets\\Scripts\\CambiadorDePantallas.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CambiadorDePantallas.cs",
@@ -55,12 +72,11 @@
               "RelativeToolTip": "Assets\\Scripts\\CambiadorDePantallas.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T07:05:23.503Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T07:05:23.503Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "InicioUIController.cs",
               "DocumentMoniker": "C:\\Users\\maria\\OneDrive - UVG\\Documentos\\UVG\\Megaproyecto\\ARTour-V2\\Assets\\Scripts\\InicioUIController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\InicioUIController.cs",
@@ -72,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "PantallaEscaneo.uss",
               "DocumentMoniker": "C:\\Users\\maria\\OneDrive - UVG\\Documentos\\UVG\\Megaproyecto\\ARTour-V2\\Assets\\UI Toolkit\\PantallaEscaneo.uss",
               "RelativeDocumentMoniker": "Assets\\UI Toolkit\\PantallaEscaneo.uss",
@@ -84,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "PantallaEscaneo.uxml",
               "DocumentMoniker": "C:\\Users\\maria\\OneDrive - UVG\\Documentos\\UVG\\Megaproyecto\\ARTour-V2\\Assets\\UI Toolkit\\PantallaEscaneo.uxml",
               "RelativeDocumentMoniker": "Assets\\UI Toolkit\\PantallaEscaneo.uxml",
